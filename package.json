@@ -1,0 +1,14 @@
+{
+  "name": "realtimechat-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:saakeeb/realtimechat-api.git",
+  "author": "saakeeb <sakib14april@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "1.18.3"
+  }
+}
