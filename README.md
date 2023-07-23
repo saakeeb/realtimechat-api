@@ -1,1 +1,1 @@
-# realtimechat-api
+# Real time chat backend
